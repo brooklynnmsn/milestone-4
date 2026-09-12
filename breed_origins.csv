@@ -1,0 +1,196 @@
+Breed,Country,Latitude,Longitude,JitterLat,JitterLng
+Retrievers (Labrador),Canada,53.13,-57.66,53.465,-58.8
+French Bulldogs,France,46.22,2.21,45.68,1.546
+German Shepherd Dogs,Germany,51.16,10.45,51.728,10.874
+Retrievers (Golden),United Kingdom,56.49,-4.2,57.431,-5.191
+Bulldogs,United Kingdom,52.35,-1.17,52.163,-2.298
+Poodles,Germany,51.16,10.45,50.485,10.463
+Beagles,United Kingdom,52.35,-1.17,51.214,-1.893
+Rottweilers,Germany,48.17,8.64,48.53,8.748
+Pointers (German Shorthaired),Germany,51.16,10.45,50.489,10.664
+Dachshunds,Germany,51.16,10.45,51.903,9.266
+Pembroke Welsh Corgis,United Kingdom,52.2,-3.7,52.934,-3.224
+Australian Shepherds,United States,38.5,-98.0,38.117,-98.827
+Yorkshire Terriers,United Kingdom,53.95,-1.08,55.047,-1.472
+Boxers,Germany,51.16,10.45,50.183,9.482
+Great Danes,Germany,51.16,10.45,51.994,10.699
+Siberian Huskies,Russia,64.0,100.0,64.737,100.551
+Cavalier King Charles Spaniels,United Kingdom,52.35,-1.17,52.437,-0.035
+Doberman Pinschers,Germany,50.98,11.32,50.688,11.445
+Miniature Schnauzers,Germany,51.16,10.45,51.951,10.734
+Shih Tzu,China,32.0,90.0,32.868,90.186
+Boston Terriers,United States,42.36,-71.05,42.851,-72.14
+Bernese Mountain Dogs,Switzerland,46.94,7.44,46.287,6.935
+Pomeranians,Germany,53.55,14.55,52.542,13.909
+Havanese,Cuba,23.11,-82.36,22.152,-82.893
+Cane Corso,Italy,41.29,15.54,41.616,15.216
+Spaniels (English Springer),United Kingdom,52.35,-1.17,52.038,-1.867
+Shetland Sheepdogs,United Kingdom,60.35,-1.26,59.791,-0.212
+Brittanys,France,48.2,-2.93,48.555,-2.668
+Pugs,China,35.86,104.19,35.071,104.74
+Spaniels (Cocker),United Kingdom,52.35,-1.17,51.542,-1.459
+Miniature American Shepherds,United States,37.09,-95.71,38.265,-95.374
+Border Collies,United Kingdom,55.5,-2.5,55.637,-2.057
+Mastiffs,United Kingdom,52.35,-1.17,53.173,-0.508
+Chihuahuas,Mexico,28.63,-106.08,27.98,-107.203
+Vizslas,Hungary,47.16,19.5,46.717,18.943
+Basset Hounds,France,46.22,2.21,45.526,3.273
+Belgian Malinois,Belgium,50.85,4.35,51.753,3.905
+Maltese,Malta,35.93,14.37,36.303,14.12
+Weimaraners,Germany,50.98,11.32,51.975,11.221
+Collies,United Kingdom,56.49,-4.2,55.926,-4.808
+Newfoundlands,Canada,48.5,-55.8,48.647,-56.369
+Rhodesian Ridgebacks,Zimbabwe,-19.01,29.15,-18.807,30.105
+Shiba Inu,Japan,36.2,138.25,35.959,137.576
+West Highland White Terriers,United Kingdom,56.49,-4.2,57.684,-4.177
+Bichons Frises,France,46.22,2.21,45.238,1.123
+Bloodhounds,Belgium,50.5,4.47,49.563,4.776
+Akitas,Japan,39.71,140.1,40.411,139.913
+Portuguese Water Dogs,Portugal,37.01,-7.93,35.962,-8.214
+Retrievers (Chesapeake Bay),United States,37.09,-95.71,38.281,-95.64
+Dalmatians,Croatia,43.5,16.5,44.631,17.366
+St. Bernards,Switzerland,45.86,7.17,44.688,7.7
+Papillons,France,46.22,2.21,46.656,2.299
+Australian Cattle Dogs,Australia,-25.27,133.77,-25.83,134.108
+Bullmastiffs,United Kingdom,52.35,-1.17,51.418,-1.327
+Samoyeds,Russia,66.5,75.0,66.389,76.089
+Scottish Terriers,United Kingdom,56.49,-4.2,57.392,-4.768
+Soft Coated Wheaten Terriers,Ireland,53.14,-7.69,53.141,-8.461
+Whippets,United Kingdom,53.0,-1.5,53.99,-0.611
+Pointers (German Wirehaired),Germany,51.16,10.45,50.676,10.783
+Chinese Shar-Pei,China,23.12,113.26,23.382,112.427
+Airedale Terriers,United Kingdom,53.8,-1.8,54.43,-1.705
+Wirehaired Pointing Griffons,Netherlands,52.13,5.29,52.799,5.363
+Bull Terriers,United Kingdom,52.35,-1.17,51.151,-1.592
+Alaskan Malamutes,United States,64.2,-149.49,63.047,-148.46
+Cardigan Welsh Corgis,United Kingdom,52.08,-4.66,52.989,-3.864
+Giant Schnauzers,Germany,51.16,10.45,50.698,9.389
+Old English Sheepdogs,United Kingdom,52.35,-1.17,53.257,-0.097
+Italian Greyhounds,Italy,41.87,12.56,40.876,12.526
+Great Pyrenees,France,42.8,0.0,41.766,0.625
+Dogues de Bordeaux,France,44.83,-0.57,45.468,-1.462
+Russell Terriers,United Kingdom,50.8,-3.5,50.741,-3.38
+Cairn Terriers,United Kingdom,56.49,-4.2,55.926,-3.306
+Irish Wolfhounds,Ireland,53.14,-7.69,52.956,-8.382
+Setters (Irish),Ireland,53.14,-7.69,53.234,-7.138
+Greater Swiss Mountain Dogs,Switzerland,46.81,8.22,46.093,7.768
+Miniature Pinschers,Germany,51.16,10.45,52.348,10.81
+Lhasa Apsos,Tibet,29.65,91.13,29.501,91.172
+Chinese Crested,China,35.86,104.19,34.95,103.529
+Coton de Tulear,Madagascar,-23.35,43.66,-23.739,43.872
+Staffordshire Bull Terriers,United Kingdom,52.8,-2.1,52.152,-2.771
+American Staffordshire Terriers,United States,37.09,-95.71,36.06,-95.395
+Rat Terriers,United States,37.09,-95.71,36.439,-94.737
+Chow Chows,China,35.86,104.19,36.723,103.16
+Anatolian Shepherd Dogs,Turkey,39.0,35.0,38.371,35.406
+Basenjis,Congo,-0.22,15.82,-0.906,14.938
+Spaniels (Boykin),United States,37.09,-95.71,38.135,-95.539
+Brussels Griffons,Belgium,50.85,4.35,50.784,5.033
+Retrievers (Nova Scotia Duck Tolling),Canada,56.13,-106.34,56.868,-107.083
+Norwegian Elkhounds,Norway,60.47,8.46,59.503,8.295
+Standard Schnauzers,Germany,51.16,10.45,50.977,10.371
+Dogo Argentinos,Argentina,-31.42,-64.18,-30.87,-63.764
+Bouviers des Flandres,Belgium,51.0,3.5,52.162,2.536
+Pekingese,China,39.9,116.4,39.666,116.014
+Keeshonden,Netherlands,52.13,5.29,52.998,4.687
+Border Terriers,United Kingdom,55.3,-2.5,54.557,-2.623
+Leonbergers,Germany,48.79,9.01,48.603,8.479
+Tibetan Terriers,Tibet,29.65,91.13,29.05,92.146
+Neapolitan Mastiffs,Italy,40.85,14.26,40.714,15.127
+Setters (English),United Kingdom,54.0,-2.5,54.121,-3.579
+Retrievers (Flat-Coated),United Kingdom,54.0,-2.5,55.198,-1.694
+Borzois,Russia,55.75,37.61,56.876,38.633
+Fox Terriers (Wire),United Kingdom,54.0,-2.5,54.837,-3.301
+Miniature Bull Terriers,United Kingdom,52.35,-1.17,52.316,-1.857
+Belgian Tervuren,Belgium,50.82,4.51,50.582,3.451
+Setters (Gordon),United Kingdom,54.0,-2.5,53.71,-1.335
+Silky Terriers,Australia,-33.86,151.2,-34.424,151.882
+Norwich Terriers,United Kingdom,52.63,1.29,52.522,1.105
+Spinoni Italiani,Italy,45.4,10.0,46.498,11.189
+Japanese Chin,Japan,35.67,139.65,35.804,140.174
+Welsh Terriers,United Kingdom,52.2,-3.7,51.372,-4.188
+Toy Fox Terriers,United States,37.09,-95.71,38.215,-95.52
+Schipperkes,Belgium,50.85,4.35,50.951,4.945
+Parson Russell Terriers,United Kingdom,50.8,-3.5,49.737,-3.298
+Pointers,United Kingdom,52.35,-1.17,52.357,-0.323
+Belgian Sheepdogs,Belgium,50.85,4.35,50.028,5.456
+Tibetan Spaniels,Tibet,29.65,91.13,28.642,90.376
+American Eskimo Dogs,United States,37.09,-95.71,37.318,-95.289
+Irish Terriers,Ireland,53.14,-7.69,52.504,-8.602
+Beaucerons,France,48.5,1.5,49.437,0.891
+Afghan Hounds,Afghanistan,34.55,69.2,34.777,69.487
+Boerboels,South Africa,-30.55,22.93,-30.744,23.131
+Fox Terriers (Smooth),United Kingdom,54.0,-2.5,54.055,-1.457
+Bearded Collies,United Kingdom,56.49,-4.2,55.78,-3.681
+Black Russian Terriers,Russia,55.75,37.61,55.123,37.36
+Black and Tan Coonhounds,United States,36.0,-84.0,36.412,-84.48
+Spaniels (Welsh Springer),United Kingdom,54.0,-2.5,53.559,-1.896
+American Hairless Terriers,United States,37.09,-95.71,36.064,-95.81
+Norfolk Terriers,United Kingdom,52.63,1.29,53.826,2.481
+Xoloitzcuintli,Mexico,19.43,-99.13,18.406,-99.818
+Manchester Terriers,United Kingdom,53.48,-2.24,52.916,-1.2
+Kerry Blue Terriers,Ireland,52.15,-9.75,53.064,-8.84
+Australian Terriers,Australia,-37.81,144.96,-38.123,144.139
+Spaniels (Clumber),United Kingdom,54.0,-2.5,54.801,-2.012
+Lakeland Terriers,United Kingdom,54.5,-3.0,54.768,-1.831
+Bluetick Coonhounds,United States,35.5,-86.5,35.87,-87.681
+English Toy Spaniels,United Kingdom,52.35,-1.17,53.111,-1.651
+German Pinschers,Germany,51.16,10.45,51.552,11.503
+Tibetan Mastiffs,Tibet,31.69,88.09,30.812,87.167
+Bedlington Terriers,United Kingdom,55.13,-1.58,54.187,-1.452
+Greyhounds,United Kingdom,52.35,-1.17,51.804,-0.918
+Salukis,Egypt,26.82,30.8,27.342,30.089
+Barbets,France,46.22,2.21,46.542,1.644
+Redbone Coonhounds,United States,33.0,-84.0,32.972,-83.027
+Swedish Vallhunds,Sweden,58.4,13.8,59.231,12.822
+Sealyham Terriers,United Kingdom,51.9,-5.0,51.717,-5.536
+Spanish Water Dogs,Spain,36.7,-5.3,35.509,-4.649
+Briards,France,48.8,2.3,49.129,1.729
+Berger Picards,France,49.9,2.3,50.479,2.424
+Entlebucher Mountain Dogs,Switzerland,46.98,8.06,46.806,6.883
+Treeing Walker Coonhounds,United States,37.5,-85.5,36.481,-84.581
+Wirehaired Vizslas,Hungary,47.16,19.5,48.129,19.609
+Spaniels (American Water),United States,37.09,-95.71,37.893,-95.512
+Spaniels (Field),United Kingdom,54.0,-2.5,53.155,-3.394
+Lowchen,Germany,51.16,10.45,50.7,11.408
+Affenpinschers,Germany,51.16,10.45,51.871,11.316
+Finnish Lapphunds,Finland,67.0,26.0,67.957,25.304
+Scottish Deerhounds,United Kingdom,56.49,-4.2,55.889,-5.153
+Plott Hounds,Germany,51.16,10.45,51.832,11.372
+Norwegian Buhunds,Norway,60.47,8.46,60.245,8.75
+Glen of Imaal Terriers,Ireland,53.0,-6.5,52.171,-5.468
+Ibizan Hounds,Spain,38.9,1.4,39.775,2.543
+Spaniels (Sussex),United Kingdom,54.0,-2.5,54.746,-1.585
+Polish Lowland Sheepdogs,Poland,52.0,19.0,50.859,19.568
+Otterhounds,United Kingdom,54.5,-2.5,54.097,-1.466
+Kuvaszok,Hungary,47.16,19.5,47.885,20.374
+Komondorok,Hungary,47.16,19.5,47.906,18.94
+Cirnechi dell’Etna,Italy,37.75,14.99,38.44,14.049
+Pharaoh Hounds,Malta,35.93,14.37,36.823,15.231
+Dandie Dinmont Terriers,United Kingdom,55.5,-2.7,54.834,-1.94
+Pyrenean Shepherds,France,43.0,0.0,42.905,-0.468
+Skye Terriers,United Kingdom,57.3,-6.2,58.009,-6.854
+American English Coonhounds,United States,37.09,-95.71,35.947,-96.446
+Chinooks,United States,43.8,-71.3,43.388,-70.426
+Finnish Spitz,Finland,61.92,25.74,63.041,25.21
+Sloughis,Morocco,31.79,-7.09,32.13,-7.331
+Harriers,United Kingdom,52.35,-1.17,53.505,-1.083
+American Foxhounds,United States,38.0,-78.0,39.054,-78.923
+Azawakhs,Mali,17.57,-3.99,18.699,-4.761
+English Foxhounds,United Kingdom,52.35,-1.17,53.46,-1.733
+Norwegian Lundehunds,Norway,67.5,12.0,66.56,11.843
+Spaniels (English Cocker),United Kingdom,52.35,-1.17,52.629,-2.12
+Lagotti Romagnoli,Italy,44.4,11.9,43.95,11.346
+Pulik,Hungary,47.16,19.5,47.633,19.853
+Icelandic Sheepdogs,Iceland,64.96,-19.02,65.744,-19.846
+Pumik,Hungary,47.16,19.5,47.004,18.56
+Portuguese Podengo Pequenos,Portugal,39.39,-8.22,38.827,-8.209
+Retrievers (Curly-Coated),United Kingdom,52.35,-1.17,51.403,-1.772
+Nederlandse Kooikerhondjes,Netherlands,52.13,5.29,52.43,5.38
+Petits Bassets Griffons Vendeens,France,46.22,2.21,45.661,2.389
+Setters (Irish Red and White),Ireland,53.14,-7.69,53.759,-8.677
+Bergamasco Sheepdogs,Italy,45.7,9.67,46.312,10.066
+Spaniels (Irish Water),Ireland,53.14,-7.69,52.821,-8.379
+Canaan Dogs,Israel,31.04,34.85,31.954,34.523
+Grand Basset Griffon Vendeens,France,46.22,2.21,45.405,1.403
+Cesky Terriers,Czech Republic,49.81,15.47,50.505,15.677
